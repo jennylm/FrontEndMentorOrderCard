@@ -35,7 +35,7 @@ body {
 /* Upper half of card design */
 
 .order-summary-card {
-  max-width: 40%;
+  max-width: 33%;
   text-align: center;
   margin: 20% auto;
   border-radius: 12px;
